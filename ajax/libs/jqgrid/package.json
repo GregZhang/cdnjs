@@ -1,5 +1,55 @@
 {
   "name": "jqgrid",
+<<<<<<< HEAD
+  "npmName": "jqgrid",
+  "npmFileMap": [
+    {
+      "basePath": "/",
+      "files": [
+        "css/ui.jqgrid.css",
+        "css/ui.jqgrid-bootstrap",
+        "css/addons/ui.multiselect.css",
+        "js/jquery.jqGrid.min.js",
+        "js/jquery.jqGrid.js",
+        "js/addons/ui.multiselect.js",
+        "js/i18n/*.js"
+      ]
+    }
+  ],
+  "title": "Guriddo jqGrid",
+  "version": "5.0.1",
+  "description": "jqGrid is an Ajax-enabled JavaScript control that provides solutions for representing and manipulating tabular data on the web.",
+  "homepage": "http://www.trirand.com/blog/",
+  "filename": "js/jquery.jqGrid.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonytomov/jqGrid.git"
+  },
+  "namespace": "jqGrid",
+  "keywords": [
+    "jQuery",
+    "jqGrid",
+    "JavaScript",
+    "grid",
+    "table",
+    "pivot",
+    "tree",
+    "subgrid",
+    "sorting",
+    "paging",
+    "editing",
+    "grouping",
+    "searching",
+    "ajax"
+  ],
+  "maintainers": [
+    {
+      "name": "Trirand Ltd"
+    }
+  ],
+  "author": "Tony Tomov <tony@trirand.com>",
+  "license": "Creative Commons Attribution-Non-Commercial 3.0 License"
+=======
   "filename": "js/jquery.jqGrid.min.js",
   "version": "4.6.0",
   "description": "A customisable grid control for using with jQuery in web applications.",
@@ -17,4 +67,5 @@
     "type": "git",
     "url": "https://github.com/tonytomov/jqGrid/tree/master"
   }
+>>>>>>> 2a2d46c787148a90f1aff0e3ece053e5c6c1ab85
 }
